@@ -1,0 +1,204 @@
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.staticwebassets.runtime.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.exe
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.deps.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.runtimeconfig.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.pdb
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.AssemblyReference.cache
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.AssemblyInfoInputs.cache
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.AssemblyInfo.cs
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.RazorAssemblyInfo.cache
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.RazorAssemblyInfo.cs
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookApplication.props
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookApplication.props
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookApplication.props
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\bundle\BookApplication.styles.css
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\projectbundle\BookApplication.bundle.scp.css
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\refint\BookApplication.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.pdb
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.genruntimeconfig.cache
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\ref\BookApplication.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.CopyComplete
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nishikantprasad\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.AssemblyReference.cache
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.AssemblyInfoInputs.cache
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.AssemblyInfo.cs
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.RazorAssemblyInfo.cache
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.RazorAssemblyInfo.cs
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\refint\BookApplication.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.pdb
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.staticwebassets.runtime.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.exe
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.deps.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.runtimeconfig.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.pdb
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookApplication.props
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookApplication.props
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookApplication.props
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\bundle\BookApplication.styles.css
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\projectbundle\BookApplication.bundle.scp.css
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.CopyComplete
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.genruntimeconfig.cache
+C:\Users\nishikantprasad\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\ref\BookApplication.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.staticwebassets.runtime.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.exe
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.deps.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.runtimeconfig.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\BookApplication.pdb
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.AssemblyReference.cache
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.AssemblyInfoInputs.cache
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.AssemblyInfo.cs
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.RazorAssemblyInfo.cache
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.RazorAssemblyInfo.cs
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookApplication.props
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookApplication.props
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookApplication.props
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\bundle\BookApplication.styles.css
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\scopedcss\projectbundle\BookApplication.bundle.scp.css
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.csproj.CopyComplete
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\refint\BookApplication.dll
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.pdb
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.genruntimeconfig.cache
+C:\Users\nishikantprasad\OneDrive - Nagarro\Desktop\BookApplication\BookApplication\obj\Debug\net6.0\ref\BookApplication.dll
